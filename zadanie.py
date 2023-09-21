@@ -10,3 +10,5 @@ for rzeczy in shopping_list.values():
   break
 
 print('commit1')
+
+print('commit2')
